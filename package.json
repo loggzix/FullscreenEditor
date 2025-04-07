@@ -1,0 +1,17 @@
+{
+  "name": "loggzix.fullscreen",
+  "version": "2.2.8",
+  "displayName": "Fullscreen Editor",
+  "description": "Cho phép tạo các cửa sổ Fullscreen trong Unity.",
+  "unity": "2020.1",
+  "keywords": [
+    "fullscreen",
+    "screen",
+    "editor",
+    "window"
+  ],
+  "author": {
+    "name": "LongNguyen",
+    "email": "loggzix@gmail.com"
+  }
+}
